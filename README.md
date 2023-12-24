@@ -36,5 +36,12 @@ react-scripts: Herramientas de scripts preconfiguradas para proyectos de React. 
 sweetalert2: Biblioteca para mostrar ventanas modales personalizadas en el navegador. Se utiliza para crear alertas y diálogos interactivos.
 web-vitals: Librería para medir el rendimiento de una aplicación web. Ayuda a monitorear y mejorar la experiencia del usuario en términos de velocidad y rendimiento.
 ## Instalación y Uso
-### Backend
-1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
+1. Clona este repositorio desde GitHub
+2. Instalar las dependencias necesarias en cada carpeta (backend y frontend)
+3. Volver a la carpeta principal del proyecto
+### Deploy de front y back:
+- front: https://frontutn-g8xqvq1p4-tomas-projects-6f450377.vercel.app/
+- back: https://vercel.com/tomas-projects-6f450377/backutn
+### Contacto
+tommyslaminsky@gmai.com
+
